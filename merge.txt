@@ -1,0 +1,1 @@
+La carpeta datos no se identificó como un cambio disponible para un commit, por lo tanto, solo después de crear "respuesta.txt" el commit, y eventual push fue posible.
